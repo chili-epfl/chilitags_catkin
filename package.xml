@@ -9,6 +9,7 @@
   <license>See upstream</license>
 
   <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
 
   <export></export>
 </package>
